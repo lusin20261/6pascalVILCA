@@ -1,0 +1,5 @@
+1 ser profe
+2 ser obrero
+3 ser ayudantye de aprendizaje
+4 ir un dia a argentina 
+5 ir tambien a mexíco
